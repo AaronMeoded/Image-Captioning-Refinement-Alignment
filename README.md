@@ -55,4 +55,15 @@ By leveraging these mechanisms, we achieve **significant improvements** in capti
 ```bash
 git clone https://github.com/yourusername/image-captioning-blip.git
 cd image-captioning-blip
+```
+### **2. Install Dependencies**
+```bash
+pip install -r requirements.txt
+```
+### **3. Run the Jupyter Notebook**
+Open the provided .ipynb file in Jupyter Notebook or Google Colab and execute the cells to train and test the model.
 
+## **Future Work**
+- Extend the methodology to larger datasets (e.g., MS COCO).
+- Explore multi-modal learning for video captioning.
+- Incorporate explainability techniques to improve model interpretability.
