@@ -18,7 +18,9 @@ By leveraging these mechanisms, we achieve **significant improvements** in capti
   - **CIDEr**: +16.08%
 
 ## **Example output**
-![Baseline vs. Refined Model Output](baseline_vs_refined.png)
+<p align="center">
+    <img src="baseline_vs_refined.png" alt="Baseline vs. Refined Model Output" width="500">
+</p>
 
 ## **Dataset**
 - **Flickr8k Dataset**: Contains **8,000 images** with **five human-written captions per image**.
