@@ -17,6 +17,9 @@ By leveraging these mechanisms, we achieve **significant improvements** in capti
   - **METEOR**: +3.98%
   - **CIDEr**: +16.08%
 
+## **Example output**
+![Baseline vs. Refined Model Output](baseline_vs_refined.png)
+
 ## **Dataset**
 - **Flickr8k Dataset**: Contains **8,000 images** with **five human-written captions per image**.
 - Dataset is preprocessed with **image resizing and tokenization** to match BLIP model input requirements.
